@@ -1,0 +1,1 @@
+read.table("stats1_ex01.txt", header = TRUE)
